@@ -1,0 +1,83 @@
+country_code,country_name,observations,p25,p50,p75
+ALB,Albania,43,1.05,2.63,6.95
+AGO,Angola,92,0.65,0.97,1.43
+ARG,Argentina,560,1.38,2.21,3.72
+ARM,Armenia,51,1.55,2.67,7.64
+BGD,Bangladesh,206,1.57,2.68,4.6
+BLR,Belarus,95,1.16,1.86,3.1
+BEN,Benin,47,1.13,1.93,3.76
+BTN,Bhutan,86,1.06,1.7,4.3
+BOL,Bolivia,101,1.28,2.28,4.93
+BIH,Bosnia and Herzegovina,76,1.5,2.2,3.82
+BWA,Botswana,81,0.7,1.16,2.05
+BGR,Bulgaria,51,1.02,2.35,4.82
+KHM,Cambodia,46,1.16,2.5,6.39
+CMR,Cameroon,55,0.9,1.47,2.95
+TCD,Chad,54,0.82,1.28,2.48
+CHL,Chile,469,1.58,2.38,3.6
+COL,Colombia,573,1.51,2.33,3.89
+HRV,Croatia,48,1.03,1.32,2.11
+CZE,Czech Republic,54,1.2,2.06,3.92
+CIV,Cote d'Ivoire,68,0.29,0.89,2.16
+COD,Democratic Republic of the Congo,107,1.09,1.95,4.46
+ECU,Ecuador,126,1.48,2.37,4.39
+EGY,Egypt,1403,1.47,2.76,6.62
+SLV,El Salvador,187,1.29,2.2,4.3
+EST,Estonia,54,0.95,1.47,3.3
+ETH,Ethiopia,156,1.19,3.27,6.47
+GEO,Georgia,54,1.08,2.67,4.6
+GTM,Guatemala,386,1.54,2.59,4.43
+HND,Honduras,120,1.2,2.3,5.37
+HUN,Hungary,45,1.57,3.21,6.52
+IDN,Indonesia,531,1.3,2.3,6.29
+JOR,Jordan,87,1.56,2.69,5.51
+KAZ,Kazakhstan,34,1.39,1.81,5.41
+KEN,Kenya,301,1.04,2.18,4.79
+XXK,Kosovo,35,2.16,4.34,8.05
+KGZ,Kyrgyz Republic,59,1.71,3.08,6.51
+LAO,Lao PDR,103,1.26,1.97,3.83
+LVA,Latvia,44,1.07,2.17,3.42
+LBN,Lebanon,155,1.71,3.03,5.73
+LBR,Liberia,48,0.16,1.58,6.11
+LTU,Lithuania,54,0.72,1.64,2.89
+MWI,Malawi,54,1,2.8,5.38
+MLI,Mali,149,0.08,0.91,2.95
+MEX,Mexico,257,1.32,2.38,4.5
+MDA,Moldova,77,1.46,3.09,4.71
+MNG,Mongolia,112,1.18,2.15,2.98
+MNE,Montenegro,43,1.21,2.26,5.01
+MAR,Morocco,79,1.91,3.73,8.27
+MMR,Myanmar,236,1.56,2.74,5.09
+NPL,Nepal,164,1.19,2.14,5.41
+NIC,Nicaragua,203,1.31,2.39,4.85
+NGA,Nigeria,239,0.52,1.05,2.62
+MKD,North Macedonia,120,1.11,2.38,5.06
+PAK,Pakistan,135,1.74,3.5,10.29
+PAN,Panama,42,0.96,2.14,3.54
+PRY,Paraguay,126,1.37,2.31,4.57
+PER,Peru,476,1.59,2.67,4.36
+PHL,Philippines,182,2.07,3.57,8.58
+POL,Poland,31,0.85,1.55,3.96
+ROU,Romania,86,1.28,2.44,7.86
+RUS,Russia,256,1.02,1.74,3.28
+RWA,Rwanda,92,0.96,1.99,5.89
+SEN,Senegal,188,0.95,1.53,3
+SRB,Serbia,116,1.46,2.59,5.38
+SLE,Sierra Leone,35,0.48,1.42,10.4
+SVN,Slovenia,88,1.21,1.58,2.32
+ZAF,South Africa,173,0.76,1.3,2.48
+SUR,Suriname,37,1.11,1.46,1.94
+TJK,Tajikistan,31,1.2,2.05,6.02
+TZA,Tanzania,155,0.88,1.9,4.4
+TLS,Timor-Leste,104,0.73,1.11,2.57
+TUN,Tunisia,150,1.42,2.99,6.79
+TUR,Turkiye,468,2.36,4.23,8.04
+UGA,Uganda,151,0.87,1.54,3.23
+UKR,Ukraine,140,1.04,1.96,3.92
+URY,Uruguay,189,1.3,2.24,3.66
+UZB,Uzbekistan,108,1.5,3.03,6.31
+VNM,Vietnam,272,2.04,4.03,10.14
+PSE,West Bank and Gaza,62,2.19,4.47,11.56
+YEM,Yemen,59,1.49,2.99,6.89
+ZMB,Zambia,248,0.78,1.37,2.82
+ZWE,Zimbabwe,327,0.82,1.84,3.67

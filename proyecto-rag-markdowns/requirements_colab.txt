@@ -1,0 +1,11 @@
+pandas
+numpy
+pypdf
+sentence-transformers
+faiss-cpu
+openai
+requests
+tqdm
+beautifulsoup4
+matplotlib
+scikit-learn
